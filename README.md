@@ -7,7 +7,7 @@ Motivation of the project and other group members contributed to the project can
 
 Expected steps from the group were:
 
-##Exploratory Data Analysis
+## Exploratory Data Analysis
 - Visualize each attribute separately with respect to AHD (0: no disease, 1: disease)
 - Visualize the relationship between some selected attributes and the final disease state (AHD: disease, no disease). For instance, you may choose [age, sex, Chol] as one attribute group and visualize against whether AHD is 0 or 1 (no disease/disease). Try to do this for several different attribute groups
 - Analyze Chol, Fbs and ExAng values with respect to age and sex
@@ -17,14 +17,14 @@ Expected steps from the group were:
 - Introduction of at least four new features from additional datasets and visual explanations of them
 - For both existing and new features, and usage of spatial visualization examples (as much as possible) are expected.
 
-##Statistical Analysis & Hypothesis Testing
+## Statistical Analysis & Hypothesis Testing
 - Statistical tests to check whether the values of chest pain, RestBP and Chol contribute to heart disease or not. 
 - Statistical tests to check whether age and sex contribute to heart disease or not
 - Statistical tests to check if significant differences exist between age groups and sex that suffer from heart disease
 - Statistical tests to check how all those attributes contribute to heart disease
 - Utilizing at least four new features using extra datasets in hypothesis testing
 
-##Machine Learning
+## Machine Learning
 - Prediction of heart disease given values of age, sex, chest pain and RestBP
 - Perform hyper-parameter tuning to increase model performance
 - Students are expected to introduce new approaches to their selected model in A to investigate their effects on model performance
@@ -36,7 +36,7 @@ Expected steps from the group were:
 
 ---
 
-##About Data
+## About Data
 
 Dataset used for the project can be accessed from: [https://www.kaggle.com/meetnagadia/heart-disease](https://www.kaggle.com/meetnagadia/heart-disease)
 
