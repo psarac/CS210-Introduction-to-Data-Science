@@ -1,6 +1,8 @@
 # CS210-Introduction-to-Data-Science
 Group Project done for the CS210 Introduction to Data Science Course in Sabancı University Spring 2022
 
+Data science spans a large variety of disciplines and requires a collection of skills. This course is intended to tour the basic techniques of data science from manipulation and summarizing the important characteristics of a data set, basic statistical modeling, web programming and visualization.
+
 ---
 
 Motivation of the project and other group members contributed to the project can be found in the proposal report. 
